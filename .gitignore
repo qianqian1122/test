@@ -1,0 +1,6 @@
+*.log
+logs
+.war
+.class
+.tar
+.jar
